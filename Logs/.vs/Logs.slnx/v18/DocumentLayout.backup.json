@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Logs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89815737-A68A-4228-8F2D-323E36C9ACF2}|Logs\\Logs.csproj|d:\\logs\\logs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89815737-A68A-4228-8F2D-323E36C9ACF2}|Logs\\Logs.csproj|solutionrelative:logs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89815737-A68A-4228-8F2D-323E36C9ACF2}|Logs\\Logs.csproj|d:\\logs\\logs\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89815737-A68A-4228-8F2D-323E36C9ACF2}|Logs\\Logs.csproj|solutionrelative:logs\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89815737-A68A-4228-8F2D-323E36C9ACF2}|Logs\\Logs.csproj|d:\\logs\\logs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{89815737-A68A-4228-8F2D-323E36C9ACF2}|Logs\\Logs.csproj|solutionrelative:logs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89815737-A68A-4228-8F2D-323E36C9ACF2}|Logs\\Logs.csproj|d:\\logs\\logs\\services\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89815737-A68A-4228-8F2D-323E36C9ACF2}|Logs\\Logs.csproj|solutionrelative:logs\\services\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89815737-A68A-4228-8F2D-323E36C9ACF2}|Logs\\Logs.csproj|d:\\logs\\logs\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89815737-A68A-4228-8F2D-323E36C9ACF2}|Logs\\Logs.csproj|solutionrelative:logs\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89815737-A68A-4228-8F2D-323E36C9ACF2}|Logs\\Logs.csproj|d:\\logs\\logs\\dto\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89815737-A68A-4228-8F2D-323E36C9ACF2}|Logs\\Logs.csproj|solutionrelative:logs\\dto\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89815737-A68A-4228-8F2D-323E36C9ACF2}|Logs\\Logs.csproj|d:\\logs\\logs\\dto\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89815737-A68A-4228-8F2D-323E36C9ACF2}|Logs\\Logs.csproj|solutionrelative:logs\\dto\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89815737-A68A-4228-8F2D-323E36C9ACF2}|Logs\\Logs.csproj|d:\\logs\\logs\\models\\userscredential.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89815737-A68A-4228-8F2D-323E36C9ACF2}|Logs\\Logs.csproj|solutionrelative:logs\\models\\userscredential.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89815737-A68A-4228-8F2D-323E36C9ACF2}|Logs\\Logs.csproj|d:\\logs\\logs\\logs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{89815737-A68A-4228-8F2D-323E36C9ACF2}|Logs\\Logs.csproj|solutionrelative:logs\\logs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89815737-A68A-4228-8F2D-323E36C9ACF2}|Logs\\Logs.csproj|d:\\logs\\logs\\models\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89815737-A68A-4228-8F2D-323E36C9ACF2}|Logs\\Logs.csproj|solutionrelative:logs\\models\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Logs\\Logs\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Logs\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Logs\\Logs\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Logs\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAUwE8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T05:09:15.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Logs\\Logs\\Program.cs",
+              "RelativeDocumentMoniker": "Logs\\Program.cs",
+              "ToolTip": "D:\\Logs\\Logs\\Program.cs",
+              "RelativeToolTip": "Logs\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAuwDoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T05:06:00.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "D:\\Logs\\Logs\\DTO\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "Logs\\DTO\\UserLoginDto.cs",
+              "ToolTip": "D:\\Logs\\Logs\\DTO\\UserLoginDto.cs",
+              "RelativeToolTip": "Logs\\DTO\\UserLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T05:04:00.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRegisterDto.cs",
+              "DocumentMoniker": "D:\\Logs\\Logs\\DTO\\UserRegisterDto.cs",
+              "RelativeDocumentMoniker": "Logs\\DTO\\UserRegisterDto.cs",
+              "ToolTip": "D:\\Logs\\Logs\\DTO\\UserRegisterDto.cs",
+              "RelativeToolTip": "Logs\\DTO\\UserRegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T05:00:18.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserServices.cs",
+              "DocumentMoniker": "D:\\Logs\\Logs\\Services\\IUserServices.cs",
+              "RelativeDocumentMoniker": "Logs\\Services\\IUserServices.cs",
+              "ToolTip": "D:\\Logs\\Logs\\Services\\IUserServices.cs",
+              "RelativeToolTip": "Logs\\Services\\IUserServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T04:59:06.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "D:\\Logs\\Logs\\Services\\UserServices.cs",
+              "RelativeDocumentMoniker": "Logs\\Services\\UserServices.cs",
+              "ToolTip": "D:\\Logs\\Logs\\Services\\UserServices.cs",
+              "RelativeToolTip": "Logs\\Services\\UserServices.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAADwvykAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T04:58:54.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Logs",
+              "DocumentMoniker": "D:\\Logs\\Logs\\Logs.csproj",
+              "RelativeDocumentMoniker": "Logs\\Logs.csproj",
+              "ToolTip": "D:\\Logs\\Logs\\Logs.csproj",
+              "RelativeToolTip": "Logs\\Logs.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-18T02:24:53.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsersCredential.cs",
+              "DocumentMoniker": "D:\\Logs\\Logs\\Models\\UsersCredential.cs",
+              "RelativeDocumentMoniker": "Logs\\Models\\UsersCredential.cs",
+              "ToolTip": "D:\\Logs\\Logs\\Models\\UsersCredential.cs",
+              "RelativeToolTip": "Logs\\Models\\UsersCredential.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T02:24:46.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserContext.cs",
+              "DocumentMoniker": "D:\\Logs\\Logs\\Models\\UserContext.cs",
+              "RelativeDocumentMoniker": "Logs\\Models\\UserContext.cs",
+              "ToolTip": "D:\\Logs\\Logs\\Models\\UserContext.cs",
+              "RelativeToolTip": "Logs\\Models\\UserContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T02:24:33.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Logs\\Logs\\appsettings.json",
+              "RelativeDocumentMoniker": "Logs\\appsettings.json",
+              "ToolTip": "D:\\Logs\\Logs\\appsettings.json",
+              "RelativeToolTip": "Logs\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-18T02:20:27.832Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

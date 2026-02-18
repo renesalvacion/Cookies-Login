@@ -1,0 +1,16 @@
+# Windows system files
+$RECYCLE.BIN/
+System Volume Information/
+
+# Visual Studio files
+*.sln
+*.suo
+*.user
+*.vs/
+.vscode/
+
+# Node modules
+node_modules/
+
+# Logs, temporary files
+*.log
